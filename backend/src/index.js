@@ -50,7 +50,7 @@ app.get('/health', (req, res) => {
   res.redirect('/api/health');
 });
 
-// Inicialização do servidor
-app.listen(PORT, () => {
+// Inicialização do servidor com bind explícito para 0.0.0.0 (Requisito do Render.com)
+app.listen(PORT, '0.0.0.0', () => {
   console.log(`🚀 Servidor backend rodando na porta ${PORT}`);
 });
