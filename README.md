@@ -3,7 +3,18 @@
   <h1>🌍 GeoIP Intelligence Tracker</h1>
 
   <p><strong>Plataforma avançada de geolocalização IP com inteligência de WHOIS e OSINT.</strong></p>
+<<<<<<< Updated upstream
   
+=======
+
+  <p>
+    <a href="#-recursos">Recursos</a> •
+    <a href="#-tecnologias">Tecnologias</a> •
+    <a href="#-instalação-e-uso">Instalação</a> •
+    <a href="#-arquitetura-monorepo">Arquitetura</a>
+  </p>
+
+>>>>>>> Stashed changes
   <p>
     <img src="https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js" alt="Next.js" />
     <img src="https://img.shields.io/badge/Node.js-22-green?style=flat-square&logo=node.js" alt="Node.js" />
@@ -98,3 +109,11 @@ geoip-tracker/
 │
 └── package.json            # Scripts Raiz (Workspace Manager)
 ```
+<<<<<<< Updated upstream
+=======
+
+<div align="center">
+  <br />
+  <p>Desenvolvido com curiosidade e arquitetura limpa por <strong><a href="https://github.com/muriloatavares">Murilo Tavares</a></strong>.</p>
+</div>
+>>>>>>> Stashed changes
